@@ -3,12 +3,12 @@
 # Requirement
 python==2.7
 ## python packages
-		nltk
-        TensorFlow == 1.3.0
-        numpy
-        pickle
-        Rake (pip install python-rake)
-        zpar (pip install python-zpar, download model file from https://github.com/frcchang/zpar/releases/download/v0.7.5/english-models.zip and extract it to POS/english-models)
+nltk
+TensorFlow == 1.3.0
+numpy
+pickle
+Rake (pip install python-rake)
+zpar (pip install python-zpar, download model file from https://github.com/frcchang/zpar/releases/download/v0.7.5/english-models.zip and extract it to POS/english-models)
 
 
 
