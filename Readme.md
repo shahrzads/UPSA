@@ -18,11 +18,7 @@ python source/run.py --exps_dir exps-sampling  --exp_name  test   --use_data_pat
 # evaluation script
 python  source/evaluate.py --reference_path quora-results/ref.txt  --generated_path  quora-results/gen.txt
 
-# Results
-|  |  |
-|--|--|
-|  |  |
-
+# Results on Quora
 |Model| iBLEU | BLEU | Rouge1 | Rouge2 | MEOTER| 
 |--|--|--|--|--|--|
 |VAE|8.16|13.96|44.55 | 22.64|20.27|
