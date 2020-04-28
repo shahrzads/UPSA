@@ -94,7 +94,9 @@ def main():
     else:
         simulatedAnnealing_batch(option)
 
+    
     print("="*36 + "Finish" + "="*36)
+    print("fork works!")
 
 if __name__ == "__main__":
     main()
